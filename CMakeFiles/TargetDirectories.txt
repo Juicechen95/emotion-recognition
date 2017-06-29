@@ -1,0 +1,5 @@
+/home/orange/Expression_demo/CMakeFiles/fer_predict.dir
+/home/orange/Expression_demo/CMakeFiles/fer_train.dir
+/home/orange/Expression_demo/CMakeFiles/fer_train_CK.dir
+/home/orange/Expression_demo/CMakeFiles/fer_train_jaffe.dir
+/home/orange/Expression_demo/CMakeFiles/gather.dir
